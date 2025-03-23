@@ -21,5 +21,4 @@ This project features an interactive line chart built with Plotly to explore glo
 
 ## 📷 Demo
 <img src="https://github.com/oscar10408/Dynamic-Data-Explorer/blob/main/images/Interactive_chart_1.gif" alt="demo" width="1000" height="400"/>
-
-
+<img src="https://github.com/oscar10408/Dynamic-Data-Explorer/blob/main/images/Interactive_chart_2.gif" alt="demo" width="1000" height="400"/>
