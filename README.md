@@ -20,6 +20,6 @@ This project features an interactive line chart built with Plotly to explore glo
 3. Optional: Record a screen capture to showcase interactions as a GIF
 
 ## 📷 Demo
+<img src="https://github.com/oscar10408/Dynamic-Data-Explorer/blob/main/images/Interactive_chart_1.gif" alt="demo" width="500"/>
 
-*(Coming soon — insert GIF or link here once added)*
 
