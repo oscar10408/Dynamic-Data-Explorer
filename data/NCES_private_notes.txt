@@ -1,0 +1,231 @@
+
+
+Glossary of selected tableGenerator columns
+
+American Indian/Alaska Native Students [Private School]
+
+Around the first of October, the number of students enrolled in grades K-12 and comparable ungraded levels that were American Indian or Alaska Native.
+
+ANSI/FIPS State Code [Private School]
+
+This is the two digit American National Standards Institute (ANSI) Code. This standard provides a set of two-digit numeric codes for representing the 50 states, the District of Columbia and the outlying areas of the United States. This code was formally known as the Federal Information Processing Standards (FIPS) state code.
+
+Asian or Asian/Pacific Islander Students [Private School]
+
+Around the first of October, the number of students enrolled in grades K-12 and comparable ungraded levels that were Asian or Pacific Islander.
+
+Black or African American Students [Private School]
+
+Around the first of October, the number of students enrolled in grades K-12 and comparable ungraded levels that were Black, not of Hispanic origin.
+
+City [Private School]
+
+City name where the private school is located
+
+Coeducational [Private School]
+
+This field indicates whether the school or program is "Coed", "All-female" or "All-male".
+
+County Name [Private School]
+
+This is the name of the county within which the private school resides.
+
+Days per School Year [Private School]
+
+The number of days in the school year for students in this school or program.
+
+Full-Time Equivalent (FTE) Teachers [Private School]
+
+Count of full-time equivalent teachers. The school's full-time equivalent teachers were calculated as the SUM of teachers that:
+
+(TAUGHT FULL-TIME) +
+
+(TAUGHT AT LEAST 3/4 TIME BUT LESS THAN FULL-TIME * .875) +
+
+(TAUGTT AT LEAST 1/2 TIME BUT LESS THAN 3/4 TIME * .625) +
+
+(TAUGHT AT LEAST 1/4 TIME BUT LESS THAN 1/2 TIME * .375) +
+
+(TAUGHT LESS THAN 1/4 TIME * .125).
+
+Grades 1-8 Students [Private School]
+
+This is the number of first to eighth grade students as reported by each private school.
+
+Grades 9-12 Students [Private School]
+
+This is the number of ninth to twelfth grade students as reported by each private school.
+
+Highest Grade Taught [Private School]
+
+This is the highest grade taught at the school.
+
+Hispanic Students [Private School]
+
+Around the first of October, the number of students enrolled in grades K-12 and comparable ungraded levels that were Hispanic, regardless of race.
+
+Kindergarten Students [Private School]
+
+Number of students enrolled in kindergarten around the first of October. (sum of number of students enrolled in kindergarten, transitional kindergarten, and transitional first grade)
+
+Length of School Day in Total Hours (Including reported minutes) [Private School]
+
+The length of the school day in total hours (including reported minutes) for students in this school or program.
+
+Library or Library Media Center [Private School]
+
+This school or program has a library or library media center (Yes or No).
+
+Lowest Grade Taught [Private School]
+
+This is the lowest grade taught at the school.
+
+Nat. Hawaiian or Other Pacific Isl. Students [Private School]
+
+Around the first of October, the number of students enrolled in grades K-12 and comparable ungraded levels that were Hawaiian Native/Pacific Islander origin.
+
+Percentage of American Indian/Alaska Native Students [Private School]
+
+Percentage of American Indian/Alaska Native students
+
+Percentage of Asian or Asian/Pacific Islander Students [Private School]
+
+Percentage of Asian/Pacific Islander students
+
+Percentage of Black Students [Private School]
+
+Percentage of Black students
+
+Percentage of Hispanic Students [Private School]
+
+Percentage of Hispanic students
+
+Percentage of Nat. Hawaiian or Other Pacific Isl. Students [Private School]
+
+Percentage of Hawaiian Native/Pacific Islander students
+
+Percentage of Two or More Races Students [Private School]
+
+Percentage of Two or More Races students
+
+Percentage of White Students [Private School]
+
+Percentage of White students
+
+Prekindergarten Students [Private School]
+
+Number of students enrolled in nursery and prekindergarten around the first of October.
+
+Private School Name [Private School]
+
+This is the name of the private school.
+
+Pupil/Teacher Ratio [Private School]
+
+This is the calculated Pupil Teacher Ratio: The total reported students (ungraded & K-12, PSS) divided by the FTE classroom teachers (PSS).
+
+Religious Orientation [Private School]
+
+The religious orientation that best describes the school or program's affiliation.
+
+School Community Type [Private School]
+
+A school’s community type is classified according to “Urban-centric Locale” or “Locale” codes that are defined according to Census definitions.
+
+
+
+Community type codes, based on collapsed urban-centric locale codes, are 1 City (ulocale = 11,12,13); 2 Suburb (ulocale = 21,22,23); 3 Town (ulocale = 31,32,33); 4 Rural (ulocale = 41,42,43).
+
+
+
+Community type codes, based on collapsed locale codes, are 1 Central city (locale = 1,2); 2 Urban fringe, large town (locale = 3,4,5); 3 Rural or small town (locale = 6,7,8).
+
+School ID - NCES Assigned [Private School]
+
+Unique school ID used by NCES to identify a school.
+
+School Level [Private School]
+
+The value that indicates the school or program's level as elementary, secondary, or combined.
+
+School Type [Private School]
+
+The type or emphasis that best describes the school or program:
+
+
+
+Regular
+
+Montessori
+
+Special Program Emphasis
+
+Special Education
+
+Career/Technical/Vocational
+
+Early Childhood Program or Day Care Center
+
+Alternative/Other
+
+School's Religious Affiliation or Orientation [Private School]
+
+The category that indicates the school or program's religious affiliation (e.g. Roman Catholic, other religious, or nonsectarian).
+
+State Abbr [Private School]
+
+This is the USPS abbreviation for the state.
+
+State Name [Private School]
+
+This is the name of the state.
+
+Total Students (Ungraded & K-12) [Private School]
+
+The total number of students (ungraded & K-12) who were enrolled in this school or program around the first of October.
+
+Total Students (Ungraded & PK-12) [Private School]
+
+The total number of students (ungraded & PK-12) who were enrolled in this school or program around the first of October.
+
+Two or More Races Students [Private School]
+
+Around the first of October, the number of students enrolled in grades K-12 and comparable ungraded levels that were Two or More Races.
+
+Urban-centric Locale [Private School]
+
+The urban-centric locale code (NCES assigned, based on 2000 Census geography) is based on the school's physical address and is a measure of a school's location relative to populous areas.
+
+
+
+The twelve categories are: 11) City: Large; 12) City: Midsize; 13) City: Small; 21) Suburb: Large; 22) Suburb: Midsize; 23) Suburb: Small; 31) Town: Fringe; 32) Town: Distant; 33) Town: Remote; 41) Rural: Fringe; 42) Rural: Distant; 43) Rural: Remote.
+
+
+
+NOTE: Starting in 2006–07, CCD data files contain a new locale code system that is based on the urbanicity of the school location. In prior years, the locale code was assigned based on a school’s metro status.
+
+White Students [Private School]
+
+Around the first of October, the number of students enrolled in grades K-12 and comparable ungraded levels that were White, not of Hispanic origin.
+
+ZIP [Private School]
+
+5-digit zip code
+
+
+
+
+
+Footnotes:
+
+
+
+U.S. Department of Education, National Center for Education Statistics, "Private School Universe Survey (PSS)", 2015-16, 2017-18.
+
+
+
+† indicates that the data are not applicable.
+
+– indicates that the data are missing.
+
+‡ indicates that the data do not meet NCES data quality standards
