@@ -9,6 +9,11 @@ This project features an interactive line chart built with Plotly to explore glo
 - Timeline from 1952 to 2007 using Gapminder data
 - Built using Plotly and Pandas in a Jupyter Notebook
 
+## 📷 Demo
+<img src="https://github.com/oscar10408/Dynamic-Data-Explorer/blob/main/images/Interactive_chart_1.gif" alt="demo" width="1000" height="400"/>
+<img src="https://github.com/oscar10408/Dynamic-Data-Explorer/blob/main/images/Interactive_chart_2.gif" alt="demo" width="1000" height="400"/>
+
+
 ## 📊 Data Source
 
 - Gapminder dataset (life expectancy, GDP, population, continent)
@@ -19,6 +24,4 @@ This project features an interactive line chart built with Plotly to explore glo
 2. Run all cells to view and interact with the visualization
 3. Optional: Record a screen capture to showcase interactions as a GIF
 
-## 📷 Demo
-<img src="https://github.com/oscar10408/Dynamic-Data-Explorer/blob/main/images/Interactive_chart_1.gif" alt="demo" width="1000" height="400"/>
-<img src="https://github.com/oscar10408/Dynamic-Data-Explorer/blob/main/images/Interactive_chart_2.gif" alt="demo" width="1000" height="400"/>
+
