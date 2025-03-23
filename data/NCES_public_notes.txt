@@ -1,0 +1,286 @@
+
+
+Glossary of selected tableGenerator columns
+
+Agency ID - NCES Assigned [Public School]
+
+This is the seven digit code used by NCES to uniquely identify a school district. The first two digits are the ANSI/FIPS state code.
+
+Agency Name [Public School]
+
+This is the name of the Local Education Agency as listed in the specified year of the CCD Local Education Agency Universe data file. Names that are longer than 60 characters are abbreviated.
+
+Agency Type [District]
+
+The education Agency Type code specifies the classifications within the geographic boundaries of a state according to the level of administrative and operational control as reported on the CCD Local Education Agency survey file. The classifications are:
+
+1) Regular local school district not part of a supervisory union.
+
+2) Local school district that is part of supervisory union.
+
+3) Supervisory union administrative center or county superintendent's office.
+
+4) Regional education services agency.
+
+5) State agency charged with providing elementary and/or secondary level instruction in a specific population.
+
+6) Federal agency charged with providing instruction.
+
+7) Charter school agencies.
+
+8) Other agencies.
+
+
+
+NOTE: Agency types have changed over the years of the CCD collection. Not all the types shown above will be found in the earlier, annual data files published here, https://nces.ed.gov/ccd/ccddata.asp. ElSi has been programmed to reconcile these differences so that filtering by agency type and displays of agency type are consistent with the above list.
+
+American Indian/Alaska Native Students [Public School]
+
+This is the number of students having origins in any of the original peoples of North America, and who maintain cultural identification through tribal affiliation or community recognition as reported by each school.
+
+Asian or Asian/Pacific Islander Students [Public School]
+
+This is the number of students having origins in any of the original peoples of the Far East, Southeast Asia, the Indian subcontinent, or the Pacific Islands as reported by each school.
+
+
+
+NOTE: Prior to 2008-09, this count includes Asian, Hawaiian Native, and Other Pacific Islander students. Starting in 2008-09, this count only includes Asian students; Hawaiian Native and Other Pacific Islander students are shown in a separate student count.
+
+Black or African American Students [Public School]
+
+This is the number of students having origins in any of the black racial groups of Africa as reported by each school.
+
+Charter School [Public School]
+
+This is a flag for a Charter School. A charter school is one that provides free elementary and/or secondary education to eligible students under a specific charter granted by the state legislature or other appropriate authority.
+
+Congressional Code [Public School]
+
+The congressional district code is based on the location of the school and is the legislatively defined subdivision of the state for the purpose of electing representatives to the House of Representative of the United States Congress. The first two digits are the ANSI/FIPS state numeric code, which makes the congressional district code unique across states.
+
+County Name [Public School]
+
+This is the name of the county within which the school resides.
+
+
+
+NOTE: Prior to the school year 2002-03, county name was not collected on the Public Elementary / Secondary School Universe survey. For the earlier years, the county name is from the Local Education Agency (School District) Universe survey.
+
+County Number [Public School]
+
+This is the three digit American National Standards Institute (ANSI) code for the county, formally known as the Federal Information Processing Standards (FIPS), based on the location city (LCITY) of the school. Together with the state ANSI/FIPS code, it uniquely identifies each county. For more information on ANSI codes go to: http://www.census.gov/geo/www/ansi/ansi.html
+
+
+
+NOTE: Prior to the school year 2002-03, county number was not collected on the Public Elementary / Secondary School Universe survey. For the earlier years, the county is number from the Local Education Agency (School District) Universe survey.
+
+Female Students [Public School]
+
+Total number of female students in all grades.
+
+Free and Reduced Lunch Students [Public School]
+
+This is the total of Free Lunch Eligible students and Reduced-price Lunch Eligible students. The total is only available if both details were reported.
+
+Free Lunch Eligible [Public School]
+
+The unduplicated number of students who are eligible to participate in the Free Lunch Program under the National School Lunch Act of 1946.
+
+Full-Time Equivalent (FTE) Teachers [Public School]
+
+This is the number of Full Time Equivalent teachers as reported by each school. A teacher is defined as a professional school staff member who instructs students and maintains daily student attendance records. This count totaled to the district level will not necessarily agree with the district count of teachers, as not all teachers are assigned to a specific school.
+
+Grades 1-8 Students [Public School]
+
+This is the number of first to eighth grade students as reported by the school district.
+
+Grades 9-12 Students [Public School]
+
+This is the number of ninth to twelfth grade students as reported by the school district.
+
+Hispanic Students [Public School]
+
+This is the number of students having Mexican, Puerto Rican, Cuban, Central or South American, or other Spanish culture or origin, regardless of race as reported by each school.
+
+Kindergarten Students [Public School]
+
+A group or class that is part of a public school program, and is taught during the year preceding first grade, as reported by each school.
+
+Latitude [Public School]
+
+Latitude: The first 3 numbers of the code represent the number of degrees from the equator; the last 6 digits represent the fraction of the next degree carried out to six decimal places. As reported on the School survey.
+
+Location City [Public School]
+
+This is the name of the city where the school is physically located and may be different than the mailing city. The distinction between location and mailing city began in the 1998-99 School and Agency surveys.
+
+Location State Abbr [Public School]
+
+This is the USPS abbreviation for the state where the school is physically located and may be different than the mailing state. The distinction between location and mailing state began in the 1998-99 School and Agency surveys.
+
+Location ZIP [Public School]
+
+This is the five-digit U.S. Postal Service ZIP code for the school location address. The distinction between location and mailing state began in the 1998-99 School and Agency surveys.
+
+Longitude [Public School]
+
+Longitude: The first 3 numbers of the code represent the number of degrees from the prime meridian; the last 6 digits represent the fraction of the next degree carried out to six decimal places. As reported on the School survey.
+
+Magnet School [Public School]
+
+This is a flag for a Magnet School. A magnet school or program is a special school or program designed to: attract students of different racial/ethnic backgrounds for the purpose of reducing, preventing, or eliminating racial isolation; and/or to provide an academic or social focus on a particular theme (e.g., science/math, performing arts, gifted/talented, or foreign language).
+
+Male Students [Public School]
+
+Total number of male students in all grades.
+
+Nat. Hawaiian or Other Pacific Isl. Students [Public School]
+
+This is the number of students having origins in any of the original peoples of the Far East, Southeast Asia, the Indian subcontinent, or the Pacific Islands as reported by each school.
+
+National School Lunch Program [Public School]
+
+This variable indicates whether a school participates in the National School Lunch Program, and, if so, under what special provisions. The Healthy, Hunger-Free Kids Act of 2010 (PL 111-296) includes provisions for determining free and reduced-price lunch (FRL) eligibility that may affect the reliability and availability of the FRL counts reported to EDFacts (FS033). Under provisions 2 and 3 of the law, annual certification of individual students is not required. A new provision, the Community Eligibility Option (CEO or Provision 4), eliminates the requirement for individual eligibility information once a school has determined a baseline percentage of FRL eligible students. These changes may result in missing or out of date FRL counts. Education researchers frequently use FRL eligibility as an indicator of student socioeconomic status (SES). The NSLP status provides these researchers with an indication of the reliability of the FRL counts reported in this file.
+
+Prekindergarten Students [Public School]
+
+This is the number of prekindergarten students as reported by each school. Prekindergarten is defined as a group or class that is part of a public school program, and is taught during the year or years preceding kindergarten.
+
+Pupil/Teacher Ratio [Public School]
+
+This is the calculated Pupil Teacher Ratio: The total reported students divided by the FTE classroom teachers.
+
+Reduced-price Lunch Eligible Students [Public School]
+
+The unduplicated number of students who are eligible to participate in the Reduced-price Lunch Program under the National School Lunch Act of 1946.
+
+School ID - NCES Assigned [Public School]
+
+This is the five digit number used by NCES to identify a school. Together with the NCES Agency ID, it uniquely identifies a school.
+
+School Name [Public School]
+
+This is the name of the public school.
+
+School Type [Public School]
+
+School Type is a classification of schools conducting elementary and/or secondary instruction programs according to the ordinary or special instructional needs of students.
+
+
+
+Four categories of schools are:
+
+Regular School: A public elementary/secondary school that does not focus primarily on vocational, special, or alternative education.
+
+
+
+Special Education School: Public elementary/secondary school that focuses primarily on education of one or more of the following types of students: hard of hearing, deaf, speech-impaired, health-impaired, orthopedically impaired, intellectual disability, seriously emotionally disturbed, multi-handicapped, visually handicapped, or deaf and blind, and adapts curriculum, materials or instructions for students served.
+
+
+
+Career and Technical School: Public elementary/secondary school that focuses primarily on vocational education, and provides education in one or more semi-skilled technical operations.
+
+
+
+Alternative Education School: A public elementary/secondary school that addresses the needs of students which typically cannot be met in a regular school, provides nontraditional education, serves as an adjunct to a regular school, and falls outside of the categories of regular, special education, or vocational education.
+
+School-wide Title I [Public School]
+
+School-wide Title I. A program in which all the pupils in a school are designated under appropriate state and federal regulations as being eligible for participation in programs authorized by Title I of Public Law 103-382..
+
+Shared Time School [Public School]
+
+This is a flag for Shared Time School. A school offering vocational / technical education or other education services, in which some or all students are enrolled at a separate "home" school and attend the shared-time school on a part-day basis.
+
+State Abbr [Public School]
+
+This is the USPS abbreviation for the state.
+
+State Name [Public School]
+
+This is the name of the state.
+
+Title I Eligible School [Public School]
+
+This is a flag for a Title I School. A Title I school is designated under appropriate state and federal regulations as being eligible for participation in programs authorized by Title I of Public Law 103-382.
+
+Title I School Status [Public School]
+
+Title I school status indicates whether and in which Title I program a school is eligible for participation under authorization of Title I of Public Law 103-382. There are two types of Title I programs: Targeted Assistance (TAS) and Schoolwide (SWP). Eligibility for either programs means the school is Title I eligible, regardless of whether they decide to provide a program to their students.
+
+1 = School is eligible for Title I Targeted Assistance (TAS) but provides no program
+
+2 = School is eligible for Title I Targeted Assistance (TAS) and provides TAS program
+
+3 = School is eligible for Title I Schoolwide program (SWP) and provides TAS program
+
+4 = School is eligible for Title I Schoolwide program (SWP) but provides no program
+
+5 = School is eligible for Title I Schoolwide program (SWP) and provides SWP program
+
+6 = School is not eligible for either Title I Targeted Assistance (TAS) or Schoolwide program (SWP).
+
+
+
+NOTE: This flag was added to the school file starting in 2010-11.
+
+Total Race/Ethnicity [Public School]
+
+This is the total number of students reported by race-ethnicity. This does not include students of unknown or unreported racial/ethnic backgrounds, so it may not match the total enrollment reported for the school.
+
+Total Students, All Grades (Excludes AE) [Public School]
+
+This is the total number of students as reported by each school. A student is an individual for whom instruction is provided in an elementary or secondary educational program under the jurisdiction of a school, school system, or other educational institution. This count excludes adult education students, which is the number of students enrolled in adult education courses provided by the public elementary/secondary school system.
+
+Total Students, All Grades (Includes AE) [Public School]
+
+This is the total number of students (ungraded, prekindergarten through 13th grade, and adult education) as reported by the school. A student is an individual for whom instruction is provided in an elementary or secondary educational program under the jurisdiction of a school, school system, or other educational institution. This count includes adult education students, which is the number of students enrolled in adult education courses provided by the public elementary/secondary school system.
+
+Two or More Races Students [Public School]
+
+This is the number of students having any combination of two or more races and not Hispanic/Latino ethnicity as reported by each school.
+
+Urban-centric Locale [Public School]
+
+The urban-centric locale code (NCES assigned, based on 2000 Census geography) is based on the school's physical address (or mailing address if the physical address is not reported) and is a measure of a school's location relative to populous areas.
+
+
+
+The twelve categories are: 11) City: Large; 12) City: Midsize; 13) City: Small; 21) Suburb: Large; 22) Suburb: Midsize; 23) Suburb: Small; 31) Town: Fringe; 32) Town: Distant; 33) Town: Remote; 41) Rural: Fringe; 42) Rural: Distant; 43) Rural: Remote.
+
+
+
+NOTE: Starting in 2006–07, CCD data files contain a new locale code system that is based on the urbanicity of the school location. In prior years, the locale code was assigned based on a school’s metro status.
+
+Web Site URL [Public School]
+
+The Uniform Resource Locator (URL) for the unique address of a Web Page of the public school.
+
+White Students [Public School]
+
+This is the number of students having origins in any of the original peoples of Europe, North Africa, or the Middle East, as reported by each school.
+
+Years School Reported Data [Public School]
+
+This shows the years for which the School reported data.
+
+
+
+Footnotes:
+
+
+
+U.S. Department of Education, National Center for Education Statistics, Common Core of Data (CCD), "Public Elementary/Secondary School Universe Survey", 2019-20 v.1a; "Public Elementary/Secondary School Universe Survey CCD School Data", 2015-16 v.2a; "Public Elementary/Secondary School Universe Survey Directory Data", 2015-16 v.2a; "Public Elementary/Secondary School Universe Survey Free Lunch Data", 2015-16 v.2a; "Public Elementary/Secondary School Universe Survey Geographic Data (EDGE)", 2015-16 v.2a; "Public Elementary/Secondary School Universe Survey Membership Data", 2015-16 v.2a.
+
+
+
+† indicates that the data are not applicable.
+
+– indicates that the data are missing.
+
+‡ indicates that the data do not meet NCES data quality standards.
+
+
+
+
+
